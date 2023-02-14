@@ -1,0 +1,16 @@
+app:
+  server_mode: "release"
+  server_port: 9096
+  token_secret: "cseric.com"
+
+mysql:
+  host: "127.0.0.1"
+  port: 3306
+  user: "root"
+  pass: "root"
+  name: "web_video"
+
+file:
+  avatar: "./upload/avatar/"
+  cover: "./upload/cover/"
+  video: "./upload/video/"
