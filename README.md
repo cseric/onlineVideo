@@ -4,7 +4,7 @@
 本项目是个人本科毕业设计的后端接口项目，使用Go语言编写一个在线视频分享平台
 
 使用框架：
-- [gin-gonic](https://github.com/gin-gonic/gin)
+- [gin-gonic/gin](https://github.com/gin-gonic/gin)
 - [go-gorm/gorm](https://github.com/go-gorm/gorm)
 - [spf13/viper](https://github.com/spf13/viper)
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt)
