@@ -15,5 +15,5 @@
 - MySQL
 
 前端项目：
-- 后台管理：https://github.com/zloong921/onlineVideo_admin
-- 用户前台：https://github.com/zloong921/onlineVideo_front
+- 后台管理：https://github.com/cseric/onlineVideo_admin
+- 用户前台：https://github.com/cseric/onlineVideo_front
